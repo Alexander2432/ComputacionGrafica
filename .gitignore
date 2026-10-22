@@ -1,0 +1,17 @@
+## Compilación y binarios
+[Bb]in/
+[Oo]bj/
+
+## Archivos temporales y de configuración de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Paquetes NuGet
+packages/
+*.nupkg
+
+## Logs y diagnósticos
+*.log
